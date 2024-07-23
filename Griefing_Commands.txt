@@ -1,0 +1,12 @@
+//sphere 0 100 (The number 0 is air and the number 100 means 100 blocks radius. You can put radius number as big as u want but you can crash the server if it's too big)
+/broadcast Text (Replace text with whatever you want to say)
+/eco set * 0/9999999 (Put 0 to reset the economy or put 99999999 to fuck it up. Either way it will be bad xd)
+/kickall (kicks everyone out)
+/pt /sphere 0 20 (must run it while holding a tool and just left click it to spam the command. The server must have the power tools plugin)
+/plugman (disable plugins)
+/ban Nick (ban people)
+
+That's the basic stuff hope you enjoy it ;)
+
+- XLLOR GRİEFİNG TOOLS
+- dsc.gg/fsh
